@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/OpenSans-Normal",
+        "bold": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/OpenSans-Bold",
+        "italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/Segoe-Normal",
+        "bold": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/Segoe-Bold",
+        "italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/currencies",
+        "bold": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/currencies",
+        "italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/currencies",
+        "bold_italic": "C:\/wamp64\/www\/reddotdemo\/wp-content\/uploads\/wpo_wcpdf_9b1d8738ab567703efd0410229df5f84\/fonts\/currencies"
+    }
+}

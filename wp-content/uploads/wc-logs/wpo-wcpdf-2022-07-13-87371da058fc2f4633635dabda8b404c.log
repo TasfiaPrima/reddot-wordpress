@@ -1,0 +1,2 @@
+2022-07-13T06:05:21+00:00 INFO Template setting migrated from C:/wamp64/www/reddotdemo/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-07-13T06:05:22+00:00 CRITICAL Table 'reddot-demo.wp_wcpdf_invoice_number' doesn't exist
